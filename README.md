@@ -6,5 +6,8 @@ Pewlett Hackard has a suspected large number of employees approaching retirement
 
 ## Analysis Results
 
+<p align="center">
+  <img width="900" alt="Retiring_titles" src="https://github.com/skgolden13/Pewlett_Hackard_Analysis/blob/main/Data/retiring_titles.csv">
+</p>
 
 ## Analysis Summary
