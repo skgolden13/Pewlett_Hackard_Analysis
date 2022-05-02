@@ -6,7 +6,7 @@ Pewlett Hackard has a suspected large number of employees approaching retirement
 
 PostgreSQL 11 and pgAdmin 4 were used for this analysis.</br>
 All data files can be found [here.](https://github.com/skgolden13/Pewlett_Hackard_Analysis/tree/main/Data)</br>
-All queries can be found [here](https://github.com/skgolden13/Pewlett_Hackard_Analysis/tree/main/Queries) with the queries used to generate tables in this report found [here.](https://github.com/skgolden13/Pewlett_Hackard_Analysis/blob/main/Queries/Employee_Database_Challenge.sql)
+All queries can be found [here](https://github.com/skgolden13/Pewlett_Hackard_Analysis/tree/main/Queries) with the queries used to generate tables for this report found [here.](https://github.com/skgolden13/Pewlett_Hackard_Analysis/blob/main/Queries/Employee_Database_Challenge.sql)
 
 ## Analysis Results
 
