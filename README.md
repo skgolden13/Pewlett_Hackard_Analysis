@@ -4,6 +4,10 @@
 
 Pewlett Hackard has a suspected large number of employees approaching retirement. This project determines the number of employees leaving based on title and department. With the large amount of talent leaving, it is important to identify employees with similar talent who can mentor the large number of new hires coming in to replace retiring employees. Employees eligible for the mentorship program have also been categorized by title and department.
 
+PostgreSQL 11 and pgAdmin 4 were used for this analysis.
+All data files can be found [here.](https://github.com/skgolden13/Pewlett_Hackard_Analysis/tree/main/Data)
+All queries can be found [here](https://github.com/skgolden13/Pewlett_Hackard_Analysis/tree/main/Queries) with the queries used to generate tables in this report found [here.](https://github.com/skgolden13/Pewlett_Hackard_Analysis/blob/main/Queries/Employee_Database_Challenge.sql)
+
 ## Analysis Results
 
 The analysis has revealed the following:
