@@ -8,7 +8,7 @@ Pewlett Hackard has a suspected large number of employees approaching retirement
 
 <p align="center">
   Table 1: Number of Employees Retiring by Title
-  <img width="450" alt="Retiring_titles" src="https://github.com/skgolden13/Pewlett_Hackard_Analysis/blob/main/Data/retiring_titles.PNG">
+  <img width="225" alt="Retiring_titles" src="https://github.com/skgolden13/Pewlett_Hackard_Analysis/blob/main/Data/retiring_titles.PNG">
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@ Pewlett Hackard has a suspected large number of employees approaching retirement
 
 <p align="center">
   Table 3: Number of Employees Retiring by Department
-  <img width="450" alt="retiring_dept_count" src="https://github.com/skgolden13/Pewlett_Hackard_Analysis/blob/main/Data/retiring_dept_count.PNG">
+  <img width="225" alt="retiring_dept_count" src="https://github.com/skgolden13/Pewlett_Hackard_Analysis/blob/main/Data/retiring_dept_count.PNG">
 </p>
 
 <p align="center">
   Table 4: Number of Employees Eligible for Mentorship Program by Department
-  <img width="450" alt="mentor_dept_count" src="https://github.com/skgolden13/Pewlett_Hackard_Analysis/blob/main/Data/mentor_dept_count.PNG">
+  <img width="225" alt="mentor_dept_count" src="https://github.com/skgolden13/Pewlett_Hackard_Analysis/blob/main/Data/mentor_dept_count.PNG">
 </p>
